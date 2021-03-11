@@ -465,6 +465,7 @@
     <fields>
         <fullName>UpsellOpportunity__c</fullName>
         <externalId>false</externalId>
+        <inlineHelpText>Only use this field if the prospect is making an additional purchase more than 12 months after the start of their contract.</inlineHelpText>
         <label>Upsell Opportunity</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -489,6 +490,14 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>VIP__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>VIP</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Website</fullName>
