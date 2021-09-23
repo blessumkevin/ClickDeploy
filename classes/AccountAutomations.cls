@@ -8,13 +8,13 @@ public class AccountAutomations {
     }
     public static Account setDefaultBillingAddress(Account a){
         a.billingstreet = 'Basauri, 6'; 
-        a.billingstate = 'Madrid'; 
+        a.billingstate = 'Boston'; 
         a.billingpostalcode ='28023'; 
         return a;
     }
     public static Account setDefaultShippingAddress(Account a){
         a.shippingstreet = 'Basauri, 6'; 
-        a.shippingstate = 'Madrid';
+        a.shippingstate = 'Boston';
         a.shippingpostalcode ='28023';
         return a;
     }
