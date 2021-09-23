@@ -8,7 +8,7 @@ public class AccountAutomations {
     }
     public static Account setDefaultBillingAddress(Account a){
         a.billingstreet = 'Basauri, 6'; 
-        a.billingstate = 'Madrid'; 
+        a.billingstate = 'Boston'; 
         a.billingpostalcode ='28023'; 
         return a;
     }
