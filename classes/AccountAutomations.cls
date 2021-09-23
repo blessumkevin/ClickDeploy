@@ -14,7 +14,7 @@ public class AccountAutomations {
     }
     public static Account setDefaultShippingAddress(Account a){
         a.shippingstreet = 'Basauri, 6'; 
-        a.shippingstate = 'Madrid';
+        a.shippingstate = 'Boston';
         a.shippingpostalcode ='28023';
         return a;
     }
