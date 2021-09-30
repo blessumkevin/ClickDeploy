@@ -327,6 +327,15 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
+        <fullName>VIP__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>sff</description>
+        <externalId>false</externalId>
+        <label>VIP</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
