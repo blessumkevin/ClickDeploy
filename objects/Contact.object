@@ -329,7 +329,7 @@
     <fields>
         <fullName>VIP__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>New text to add here</description>
+        <description>New text to add here...</description>
         <externalId>false</externalId>
         <label>VIP</label>
         <trackFeedHistory>false</trackFeedHistory>
