@@ -329,7 +329,7 @@
     <fields>
         <fullName>VIP__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>New description added.</description>
+        <description>New description added in Salesforce.</description>
         <externalId>false</externalId>
         <label>VIP</label>
         <trackFeedHistory>false</trackFeedHistory>
