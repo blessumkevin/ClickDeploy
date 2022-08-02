@@ -329,7 +329,7 @@
     <fields>
         <fullName>VIP__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>New description here in the Salesforce org for Michael.</description>
+        <description>Used for important Accenture.</description>
         <externalId>false</externalId>
         <label>VIP</label>
         <trackFeedHistory>false</trackFeedHistory>
