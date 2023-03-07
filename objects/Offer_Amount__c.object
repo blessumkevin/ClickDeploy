@@ -153,19 +153,13 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Student</label>
+    <label>Offer Amount</label>
     <nameField>
-        <label>Student Name</label>
+        <label>Offer Amount Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Students</pluralLabel>
+    <pluralLabel>Offer Amounts</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    <validationRules>
-        <fullName>Student_Enrollment_Date_Cannot_Be_Empty</fullName>
-        <active>true</active>
-        <errorConditionFormula>ISNULL( Name )  &amp;&amp;   LastModifiedDate = NOW()</errorConditionFormula>
-        <errorMessage>The student must have a name before being able to save this record.</errorMessage>
-    </validationRules>
 </CustomObject>
