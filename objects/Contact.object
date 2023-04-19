@@ -329,7 +329,7 @@
     <fields>
         <fullName>VIP__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>Used for important Accenture.</description>
+        <description>Used for important Accenture.Take 2</description>
         <externalId>false</externalId>
         <label>VIP</label>
         <trackFeedHistory>false</trackFeedHistory>
