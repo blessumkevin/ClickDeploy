@@ -229,6 +229,15 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>VIP__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Testing</description>
+        <externalId>false</externalId>
+        <label>VIP</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>PKWARE__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
